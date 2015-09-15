@@ -68,3 +68,4 @@ class RaindropsTest < Minitest::Test
     assert_equal '12121', Raindrops.convert(12_121)
   end
 end
+
